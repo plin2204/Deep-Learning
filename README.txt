@@ -1,6 +1,6 @@
 o How many neurons and layers did you select for your neural network model? Why?
-Basic: 1 hidden layer with 44*2 neutrons, based on double of 44 input features 
-Deep: 2 hidden layers with 44*2 and 26*2 neutrons
+Basic Neural Network: 1 hidden layer with 44*2 neutrons, based on double of 44 input features 
+Deep Learning model: 2 hidden layers with 44*2 and 44*2 neutrons
 
 o Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
 No, the Random Forest model has 71.2% accuracy. 
