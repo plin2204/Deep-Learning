@@ -11,4 +11,4 @@ Analyze and classify the success of charitable donations by implementing a **Dee
 Using **machine learning** and **neural network model** to create a *binary classifier* that is capable of predicting whether or not an applicant will be successful if funded by Alphabet Soup using the features collected in the provided dataset.
 
 ---
-Please refer to [AlphabetSoupChallenge.ipynb](https://github.com/plin2204/Deep-Learning/blob/master/AlphabetSoupChallenge.ipynb) and [README.txt](https://github.com/plin2204/Deep-Learning/blob/master/README.txt).
+Please refer to [`AlphabetSoupChallenge.ipynb`](https://github.com/plin2204/Deep-Learning/blob/master/AlphabetSoupChallenge.ipynb) and [`README.txt`](https://github.com/plin2204/Deep-Learning/blob/master/README.txt).
